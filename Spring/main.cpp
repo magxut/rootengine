@@ -1,8 +1,6 @@
 #include "raylib.h"
 #include "imgui.h"
 #include "rlImGui.h"
-#define RAYGIZMO_IMPLEMENTATION
-#include "raygizmo.h"
 
 //------------------------------------------------------------------------------------
 // Program main entry point
